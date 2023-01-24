@@ -12,13 +12,7 @@
             <li>
                 <h4>Tech Stacks:-</h4>
                 <ul>
-                    <li>
-                        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                            <span>Bootstrap</span>
-                            <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap"
-                                width="20" height="20" />
-                        </a>
-                    </li>
+                    
                     <li>
                         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                             <span>CSS3</span>
