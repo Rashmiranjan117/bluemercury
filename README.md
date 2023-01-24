@@ -12,7 +12,6 @@
             <li>
                 <h4>Tech Stacks:-</h4>
                 <ul>
-                    
                     <li>
                         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                             <span>CSS3</span>
