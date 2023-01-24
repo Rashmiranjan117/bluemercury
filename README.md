@@ -62,3 +62,7 @@
  * Sumit Kumar
  * Rashmiranjan Mahanta 
  * Sachin 
+
+
+## Deployed Link 
+* <a href="https://bluemercury-clone-project.netlify.app/" target="_blank" > Link </a>
