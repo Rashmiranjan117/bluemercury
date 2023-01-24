@@ -44,4 +44,21 @@
                 </ul>
            </li>
            
-           ##
+ ## Features Implemented 
+ * Home Page 
+ * Navbar
+ * Navlist
+ * Sidebar
+ * Footer
+ * Login/Signup (Form Validation)
+ * Product page (Electronics page, Beverages page, Groceries Page)
+ * Single product page
+ * Cart page
+ * Payments page
+ * Checkout page
+ 
+  ## Contributors
+ * Nitin Sharma
+ * Sumit Kumar
+ * Rashmiranjan Mahanta 
+ * Sachin 
