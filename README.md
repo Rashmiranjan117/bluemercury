@@ -47,11 +47,9 @@
  ## Features Implemented 
  * Home Page 
  * Navbar
- * Navlist
- * Sidebar
  * Footer
  * Login/Signup (Form Validation)
- * Product page (Electronics page, Beverages page, Groceries Page)
+ * Product page 
  * Single product page
  * Cart page
  * Payments page
